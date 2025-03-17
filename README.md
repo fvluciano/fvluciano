@@ -15,6 +15,7 @@
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?Plastic&logo=discord&logoColor=white)](https://discord.gg/fabiovin)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=Plastic&logo=instagram&logoColor=white)](https://instagram.com/@fviniciusls) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=Plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/fabioviniciusl/) 
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=Plastic&logo=whatsapp&logoColor=white)](https://w.app/vfcwsw)

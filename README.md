@@ -23,9 +23,13 @@
  - Thanks for Visiting!
  - Enjoy it! 
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-### ✍️ Random Dev Quote
+### <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="50"> Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/fvluciano/fvluciano/output/snake.svg" alt="Snake animation" />

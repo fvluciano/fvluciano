@@ -28,7 +28,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/fvluciano/fvluciano/output/snake.svg" alt="Snake animation" />
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
